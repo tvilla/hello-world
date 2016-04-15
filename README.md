@@ -1,2 +1,5 @@
 # hello-world
-A test respository to learn how to use Git
+A test respository on Git
+
+This is the first time I've worked here
+Let's see how the rest of this goes
